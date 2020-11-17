@@ -1,4 +1,7 @@
 # List of files to ignore in the repository
 
 salsa-database.mat
-chili-data.nc
+chile-data.nc
+
+#ignore storing files
+**Store
